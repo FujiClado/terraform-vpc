@@ -27,3 +27,12 @@ project = "myapp.blog.com"
 vpc_cidr = ""
 
 ```
+### how to use
+
+```sh
+$  git clone https://github.com/FujiClado/terraform-vpc.git
+$  cd terraform-vpc
+$ terraform init
+$ terraform plan
+$ terraform apply
+```
