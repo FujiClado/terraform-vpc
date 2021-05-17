@@ -1,0 +1,5 @@
+region = "your-region"
+access_key = "put-your-access-key"
+secret_key = "put-your-secret-key" 
+project = "put-your-project-name eg: myapp.example.com"
+vpc_cidr = "172.16.0.0/16"
